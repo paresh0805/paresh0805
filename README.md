@@ -6,16 +6,6 @@
   </a>
 </p>
 
-<!-- Achievements Section -->
-## 🏅 Achievements
-
-<p align="center">
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmg6f9kr3001rky04ikrmgyic" target="_blank">
-    <img src="https://holopin.me/paresh0805" alt="Holopin Badge Board" />
-  </a>
-</p>
-
----
 
 <!-- Intro Section -->
 <h1 align="center">Hi 👋, I'm <span style="color:#FF6F61;">Paresh Madav</span></h1>
