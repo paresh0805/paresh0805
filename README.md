@@ -1,3 +1,6 @@
+<!-- Holopin Badges -->
+[![An image of @paresh0805's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/paresh0805)](https://holopin.io/@paresh0805)
+
 <!-- Centered Hacktoberfest Badge -->
 <p align="center">
   <a href="https://hacktoberfest.com" target="_blank" rel="noopener noreferrer">
@@ -5,7 +8,6 @@
          alt="Hacktoberfest Badge"/>
   </a>
 </p>
-
 
 <!-- Intro Section -->
 <h1 align="center">Hi 👋, I'm <span style="color:#FF6F61;">Paresh Madav</span></h1>
