@@ -73,19 +73,8 @@ Jupyter Notebook
 - Full-Stack Web Applications  
 - Data Processing Pipelines  
 
-(Detailed documentation available within repositories.)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paresh0805&show_icons=true&theme=radical" />
-</p>
-
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add link)
-- Email: (Add professional email)
+- Email: madavparesh08@gmail.com
