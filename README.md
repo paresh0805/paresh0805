@@ -1,24 +1,94 @@
 <!-- Holopin Badges -->
-[![An image of @paresh0805's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/paresh0805)](https://holopin.io/@paresh0805)
+[![Holopin Badges](https://holopin.me/paresh0805)](https://holopin.io/@paresh0805)
 
-<!-- Centered Hacktoberfest Badge -->
+<h1 align="center">Hi 👋, I'm Paresh Madav</h1>
 <p align="center">
-  <a href="https://hacktoberfest.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Hacktoberfest-2025-%23FF4500?style=for-the-badge&logo=github&logoColor=white" 
-         alt="Hacktoberfest Badge"/>
-  </a>
+B.Tech CSE (Data Science) | Punjab Engineering College, Chandigarh
 </p>
 
-<!-- Intro Section -->
-<h1 align="center">Hi 👋, I'm <span style="color:#FF6F61;">Paresh Madav</span></h1>
-<p align="center">💻 Developer | 🌱 Lifelong Learner | 🎯 Passionate about Coding & Creating Projects</p>
+<p align="center">
+Machine Learning • Artificial Intelligence • Data Science • Open Source
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
+
+I am a Data Science undergraduate focused on building reliable and scalable machine learning systems.  
+
+My interests lie in applying machine learning techniques to real-world problems, designing clean evaluation pipelines, and developing maintainable software systems.
+
+I am actively exploring open-source contributions and continuously strengthening my foundations in algorithms, data structures, and statistical learning.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming
+Python, C++, Java, JavaScript
+
+### Machine Learning & AI
+Scikit-learn  
+PyTorch  
+NumPy  
+Pandas  
+Matplotlib  
+Seaborn  
+OpenCV  
+Natural Language Processing (NLP)  
+Computer Vision  
+Model Evaluation & Cross-Validation  
+
+### Data Science & Analytics
+Data Cleaning & Preprocessing  
+Exploratory Data Analysis (EDA)  
+Feature Engineering  
+Statistical Analysis  
+Hypothesis Testing  
+Data Visualization  
+
+### Web & Backend
+Flask  
+Node.js  
+Express  
+React  
+
+### Databases
+MySQL  
+MongoDB  
+
+### Tools & Platforms
+Git  
+GitHub  
+Docker  
+Linux  
+Jupyter Notebook  
+
+---
+
+## 📂 Projects
+
+- Machine Learning Systems  
+- Computer Vision Applications  
+- Full-Stack Web Applications  
+- Data Processing Pipelines  
+
+(Detailed documentation available within repositories.)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=paresh0805&show_icons=true&theme=radical" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: (Add link)
+- Email: (Add professional email)
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
