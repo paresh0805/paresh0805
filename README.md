@@ -14,11 +14,9 @@ Machine Learning • Artificial Intelligence • Data Science • Open Source
 
 ## 🚀 About Me
 
-I am a Data Science undergraduate focused on building reliable and scalable machine learning systems.  
+I am a Data Science undergraduate with an interest in building reliable and scalable systems. My work spans machine learning, software development, and Linux-based environments, with a focus on creating practical and maintainable solutions.
 
-My interests lie in applying machine learning techniques to real-world problems, designing clean evaluation pipelines, and developing maintainable software systems.
-
-I am actively exploring open-source contributions and continuously strengthening my foundations in algorithms, data structures, and statistical learning.
+I enjoy working at the intersection of systems and applications, exploring how backend logic, system services, and user interfaces interact. I am actively involved in open-source development and continuously strengthening my foundations in algorithms, data structures, and system design.
 
 ---
 
@@ -46,6 +44,9 @@ Feature Engineering
 Statistical Analysis  
 Hypothesis Testing  
 Data Visualization  
+
+### Systems & Linux
+GNOME (GJS), systemd, Gio.Subprocess, D-Bus, Kerberos, OpenAFS
 
 ### Web & Backend
 Flask  
