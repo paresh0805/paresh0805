@@ -16,7 +16,7 @@
 ### 🚀 About Me
 🎓 B.Tech CSE (Data Science), Punjab Engineering College — CGPA 8.45
 🤖 Interested in Machine Learning, AI, and scalable backend systems
-🌱 400+ open-source contributions | Hacktoberfest 2025 Super Contributor
+🌱 500+ open-source contributions | Hacktoberfest 2025 Super Contributor
 🏆 350+ DSA problems solved on LeetCode & Codeforces
 
 ---
@@ -55,12 +55,6 @@ Custom LSTM built from scratch in NumPy (manual BPTT), served via FastAPI with a
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=paresh0805&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paresh0805&layout=compact&hide_border=true"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=paresh0805&hide_border=true"/>
 </p>
