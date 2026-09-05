@@ -1,138 +1,224 @@
-<h1 align="center">Hi 👋, I'm Madav Paresh Satish</h1>
-<p align="center">Data Science undergrad building ML systems, RAG pipelines & full-stack apps</p>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:madavparesh08@gmail.com"><img src="https://img.shields.io/badge/Email-madavparesh08%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/paresh0805"><img src="https://img.shields.io/badge/GitHub-paresh0805-181717?style=flat&logo=github&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-Chandigarh%2C%20India-blue?style=flat"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Madav+Paresh+Satish;B.Tech+CSE+(Data+Science)+%40+PEC;Building+RAG+pipelines+%26+ML+systems;Currently+optimizing+%E2%88%82(impact)%2F%E2%88%82(effort)" alt="Typing SVG" />
+
+<p>
+  <a href="mailto:madavparesh08@gmail.com"><img src="https://img.shields.io/badge/Email-madavparesh08%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/paresh0805"><img src="https://img.shields.io/badge/GitHub-paresh0805-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <a href="https://holopin.io/@paresh0805"><img src="https://holopin.me/paresh0805" alt="Holopin Badges"/></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=paresh0805&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/paresh0805?style=for-the-badge&color=00FF9C&labelColor=black" alt="followers"/>
+
+<a href="https://holopin.io/@paresh0805"><img src="https://holopin.me/paresh0805" alt="Holopin Badges"/></a>
+
+</div>
+
+<br>
+
+```bash
+$ whoami
+```
+
+```yaml
+name:      Madav Paresh Satish
+role:      Data Science Undergrad · ML/RAG Engineer
+location:  Chandigarh, India 🇮🇳
+education: B.Tech CSE (Data Science) @ Punjab Engineering College
+gpa:       8.45 / 10
+timeline:  Aug 2024 -> May 2028
+status:    [ONLINE] shipping RAG pipelines & full-stack ML apps
+uptime:    350+ DSA problems | 400+ OSS contributions | 7 merged PRs
+```
 
 ---
 
-### 🧮 The Model
+### 📡 `system.stats()`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=paresh0805&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paresh0805&layout=compact&hide_border=true&theme=tokyonight" width="45%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=paresh0805&hide_border=true&theme=tokyonight" width="70%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=paresh0805&theme=tokyo-night&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+### 🧬 `class MadavSatish:`
 
 ```python
 class MadavSatish:
     def __init__(self):
-        self.name        = "Madav Paresh Satish"
-        self.username     = "paresh0805"
-        self.pronouns     = "he/him"
-        self.location     = "Chandigarh, India 🇮🇳"
-        self.education    = "B.Tech CSE (Data Science) @ Punjab Engineering College — CGPA 8.45"
-        self.interests    = ["Machine Learning", "RAG Pipelines", "GenAI", "Backend Systems"]
-        self.learning     = ["LLM Ops", "Scalable ML Infra", "Systems Design"]
-        self.collaborate  = ["Python", "FastAPI", "LangChain", "Full-Stack ML Apps"]
-        self.philosophy   = "Ship it, break it, fix it, understand it."
-
-        self.knowledge    = 0.0
-        self.curiosity    = 1.0
-        self.learning_rate = 0.05
+        self.name          = "Madav Paresh Satish"
+        self.username      = "paresh0805"
+        self.stack         = ["Python", "FastAPI", "LangChain", "PyTorch", "React"]
+        self.focus         = ["RAG Systems", "Computer Vision", "GenAI", "MLOps"]
+        self.status        = "compiling curiosity into code"
+        self._knowledge    = 0.0
+        self._curiosity    = 1.0
+        self._lr           = 0.05          # learning rate, adaptive
 
     def loss_fn(self, knowledge: float) -> float:
         """Minimize ignorance. Maximize understanding."""
-        return 1 / (1 + knowledge)   # → 0 as knowledge → ∞
+        return 1 / (1 + knowledge)          # → 0 as knowledge → ∞
 
-    def gradient_step(self):
-        self.knowledge += self.curiosity * self.learning_rate
+    def gradient_step(self) -> None:
+        self._knowledge += self._curiosity * self._lr
+        self._lr *= 0.999                    # decay, but never to zero
 
-    def __repr__(self):
-        return f"∂(impact)/∂(effort) > 0  →  Still optimizing 🚀"
+    def deploy(self) -> str:
+        return "shipped to prod 🚀"
+
+    def __repr__(self) -> str:
+        return "∂(impact)/∂(effort) > 0  →  still optimizing"
 
 
 me = MadavSatish()
+while True:
+    me.gradient_step()   # never stops
 ```
 
 ---
 
-### 📐 About Me
+### 🔥 `git log --projects`
 
-$$\hat{y} = \sigma\left(\sum_{i=1}^{n} w_i x_i + b\right)$$
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Where `xᵢ` = coursework + projects, `wᵢ` = curiosity, `b` = refusal to give up, `σ` = the real world
+**🩺 Medical Assistant RAG Chatbot**
+`Python` `FastAPI` `LangChain` `Pinecone` `Groq` `Gemini`
 
-* 🎓 **Currently:** B.Tech CSE (Data Science) @ Punjab Engineering College
-* 📊 **Domain:** ML · GenAI · RAG Systems · Full-Stack Dev · MLOps
-* 🏆 **Track record:** 500+ open-source contributions · Hacktoberfest 2025 Super Contributor
-* 🧩 **Problem solver:** 350+ DSA problems solved on LeetCode & Codeforces
-* 🌱 **Gradient Descent:** Always descending toward deeper understanding
-* 💡 **Philosophy:** `loss → 0` only when you stop reading docs and start shipping
-* 🤝 **Open to:** Collaborations in ML, RAG pipelines, or full-stack builds worth solving
-* ⚡ **Fun fact:** My learning rate decays — but never to zero
+Full-stack RAG pipeline over medical PDFs. PyPDF + `RecursiveCharacterTextSplitter` for chunking → Gemini embeddings → Pinecone cosine-similarity retrieval (top-3) → Groq Llama 3.3 70B for grounded, hallucination-resistant answers. Deployed as rate-limited microservices on Render + Streamlit Cloud.
 
----
+`[repo]` · `[live demo]`
 
-### 🔥 Featured Projects
+</td>
+<td width="50%" valign="top">
 
-**🩺 [Medical Assistant RAG Chatbot](#)**
-Full-stack RAG system for querying medical PDFs — FastAPI + LangChain + Pinecone + Groq (Llama 3.3 70B), deployed on Render & Streamlit Cloud.
+**🩻 DermAI Diagnostics**
+`PyTorch` `FastAPI` `Expo` `React Native` `Gemini`
 
-**📈 [End-to-End Deep Learning Stock Prediction Platform](#)**
-Custom LSTM built from scratch in NumPy (manual BPTT), served via FastAPI with a real-time Streamlit dashboard. Cut training MSE by 37.6%.
+Clinical AI screening app: fine-tuned ResNet-18 classifies 10 skin-disease/neoplasm classes with top-3 confidence-scored predictions, paired with Gemini 2.0 reasoning for patient-friendly summaries, urgency triage, and self-care guidance — plus an offline fallback knowledge base. Cross-platform mobile/web with camera capture and scan history.
 
----
+`[repo]`
 
-### 🛠️ Tech Stack
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-</p>
+**📈 Deep Learning Stock Predictor**
+`Python` `NumPy` `FastAPI` `Streamlit`
 
----
+Custom LSTM implemented from scratch in raw NumPy — manual forward pass and backpropagation-through-time, no autograd. Served via FastAPI with a real-time Streamlit dashboard. Cut training MSE by **37.6%** through architecture and hyperparameter tuning.
 
-### 📊 GitHub Activity
+`[repo]`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paresh0805&hide_border=true"/>
-</p>
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paresh0805&show_icons=true&hide_border=true&theme=default"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paresh0805&layout=compact&hide_border=true"/>
-</p>
+**🧩 More on GitHub**
+`open-source` `contributions`
+
+400+ open-source contributions in a year across public engineering repos — bug fixes and feature work. Hacktoberfest 2025 **Super Contributor** with 7 merged PRs.
+
+`[github.com/paresh0805]`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🧠 The Learning Curve
+### 🛠️ `stack.json`
+
+<div align="center">
+
+**Languages**
+<img src="https://skillicons.dev/icons?i=python,cpp,js,java,mysql" />
+
+**ML / AI**
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv" /> &nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-673AB7?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square"/>
+
+**Data**
+<img src="https://skillicons.dev/icons?i=numpy,pandas" />
+
+**Backend & DB**
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,mongodb,mysql" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
+
+**Frontend**
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,expo" />
+
+**DevOps / Cloud**
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions,vercel" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
+</div>
+
+---
+
+### 🐍 `contribution_graph.render()`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paresh0805/paresh0805/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paresh0805/paresh0805/output/github-contribution-grid-snake.svg" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/paresh0805/paresh0805/output/github-contribution-grid-snake.svg" />
+</picture>
+
+> Powered by [`Platane/snk`](https://github.com/Platane/snk) — auto-generates a snake that "eats" your contribution graph via GitHub Actions. Requires enabling the workflow in your own repo (see note below).
+
+---
+
+### 🧠 `training.log`
 
 ```
-Epoch 1  : "What is a transformer?"           Loss: ████████████  0.98
-Epoch 10 : "I can fine-tune a pipeline!"       Loss: ████████░░░░  0.70
-Epoch 50 : "Vector DB indexing hurts..."       Loss: ████░░░░░░░░  0.38
-Epoch ∞  : Still running...                    Loss: Converging → 0
+Epoch 1  : "What is a transformer?"           loss ████████████░░  0.98
+Epoch 10 : "I can fine-tune a pipeline!"       loss ████████░░░░░░  0.70
+Epoch 50 : "Vector DB indexing hurts..."       loss ████░░░░░░░░░░  0.38
+Epoch ∞  : still running...                    loss converging → 0
 ```
 
 $$L(\theta) = -\frac{1}{m}\sum_{i=1}^{m}\left[y^{(i)}\log \hat{y}^{(i)} + (1-y^{(i)})\log(1-\hat{y}^{(i)})\right]$$
 
 ---
 
-### 📫 Connect with Me
+### 📈 `metrics.summary()`
 
-<p align="center">
-  <a href="mailto:madavparesh08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/paresh0805"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+| metric | value |
+|---|---|
+| DSA problems solved | 350+ |
+| Open-source contributions (1yr) | 400+ |
+| Merged PRs (Hacktoberfest 2025) | 7 |
+| CGPA | 8.45 / 10 |
+| Status | `Super Contributor` 🏆 |
 
 ---
 
-### ✍️ Random Dev Quote
+### 📫 `connect()`
 
+<div align="center">
+
+<a href="mailto:madavparesh08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/paresh0805"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+```
 > "All models are wrong, but some are useful." — George Box
+```
+
+</div>
